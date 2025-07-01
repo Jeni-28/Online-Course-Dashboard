@@ -10,7 +10,7 @@ This project is a fully interactive Power BI dashboard that analyzes sales and l
 - ⭐ Rating Distribution by Course
 
 ## 📁 Files Included
-- `Online_Course_Dashboard.pbix` (Power BI report)
+- `courseonline.pbix` (Power BI report)
 - `CourseSales.xlsx` (sales transactions with instructor & learner details)
 - `Courses.xlsx` (course categories and metadata)
 - `Instructors.xlsx` (instructor info like experience)
